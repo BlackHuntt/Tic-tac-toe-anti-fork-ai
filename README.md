@@ -21,6 +21,7 @@ A IA segue 4 regras de prioridade em cada jogada:
 2. **DEFESA**: Se o oponente pode ganhar no próximo lance, bloqueia  
 3. **ANTI-GARFO**: Detecta se o inimigo pode criar um garfo e joga na posição que anula os 2 ataques simultaneamente
 4. **CONTROLE**: Prioriza centro, depois cantos, depois laterais
+5. Feito 100% no celular com logica pura mostrando que nao precisa de um pc lra codar so foco e vontade de aprender!
 
 ## 🚀 Como Executar
 
